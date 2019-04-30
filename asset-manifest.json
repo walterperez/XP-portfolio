@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/XP-portfolio/static/css/main.584f321a.chunk.css",
-    "main.js": "/XP-portfolio/static/js/main.85879929.chunk.js",
-    "main.js.map": "/XP-portfolio/static/js/main.85879929.chunk.js.map",
+    "main.css": "/XP-portfolio/static/css/main.30d88fd5.chunk.css",
+    "main.js": "/XP-portfolio/static/js/main.34619b3a.chunk.js",
+    "main.js.map": "/XP-portfolio/static/js/main.34619b3a.chunk.js.map",
     "runtime~main.js": "/XP-portfolio/static/js/runtime~main.cd169f95.js",
     "runtime~main.js.map": "/XP-portfolio/static/js/runtime~main.cd169f95.js.map",
-    "static/js/2.b41502e9.chunk.js": "/XP-portfolio/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/XP-portfolio/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.535ce541.chunk.js": "/XP-portfolio/static/js/2.535ce541.chunk.js",
+    "static/js/2.535ce541.chunk.js.map": "/XP-portfolio/static/js/2.535ce541.chunk.js.map",
     "index.html": "/XP-portfolio/index.html",
-    "precache-manifest.db5cdc958fce67963ac37d51ace2353f.js": "/XP-portfolio/precache-manifest.db5cdc958fce67963ac37d51ace2353f.js",
+    "precache-manifest.fa0f9c48e4670250f25fbd538cc719d7.js": "/XP-portfolio/precache-manifest.fa0f9c48e4670250f25fbd538cc719d7.js",
     "service-worker.js": "/XP-portfolio/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/XP-portfolio/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/XP-portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/main.30d88fd5.chunk.css.map": "/XP-portfolio/static/css/main.30d88fd5.chunk.css.map",
+    "static/media/art.svg": "/XP-portfolio/static/media/art.3ad74e3a.svg",
+    "static/media/computer.jpg": "/XP-portfolio/static/media/computer.42161845.jpg",
+    "static/media/consulting.svg": "/XP-portfolio/static/media/consulting.822aaab3.svg",
+    "static/media/cuttingguru.png": "/XP-portfolio/static/media/cuttingguru.ed23881c.png",
+    "static/media/diploma.svg": "/XP-portfolio/static/media/diploma.437fdcc6.svg",
+    "static/media/jim.jpg": "/XP-portfolio/static/media/jim.27ef4aa2.jpg",
+    "static/media/kodflix.png": "/XP-portfolio/static/media/kodflix.998d2907.png",
+    "static/media/student.svg": "/XP-portfolio/static/media/student.b8f5bcdc.svg",
+    "static/media/walkerbarbershop.png": "/XP-portfolio/static/media/walkerbarbershop.19e88d9c.png",
+    "static/media/walterLogo.svg": "/XP-portfolio/static/media/walterLogo.bb82ed7b.svg",
+    "static/media/walterrepo.png": "/XP-portfolio/static/media/walterrepo.c1b6caab.png",
+    "static/media/waveBackground.png": "/XP-portfolio/static/media/waveBackground.e264ff3c.png",
+    "static/media/wd1.png": "/XP-portfolio/static/media/wd1.df5e1396.png",
+    "static/media/will.jpg": "/XP-portfolio/static/media/will.42720bbd.jpg"
   }
 }
